@@ -1,0 +1,14 @@
+﻿  Tile.cpp
+  MapLoader.cpp
+  Map.cpp
+  Layer.cpp
+c:\users\abomy\documents\citrusengine\citrusengine\citrusengine\layer.cpp(7): warning C4800: 'const pugi::char_t *': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\abomy\documents\citrusengine\citrusengine\citrusengine\layer.cpp(17): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\abomy\documents\citrusengine\citrusengine\citrusengine\layer.cpp(19): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\abomy\documents\citrusengine\citrusengine\citrusengine\layer.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  main.cpp
+  Generating Code...
+  CitrusEngine.vcxproj -> C:\Users\Abomy\Documents\CitrusEngine\CitrusEngine\Debug\CitrusEngine.exe
+  CitrusEngine.vcxproj -> C:\Users\Abomy\Documents\CitrusEngine\CitrusEngine\Debug\CitrusEngine.pdb (Partial PDB)
